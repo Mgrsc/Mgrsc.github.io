@@ -2,7 +2,7 @@
   /* 为载入的字体取名字(随意) */
   font-family: 'ME';
   /* 字体文件地址(相对或者绝对路径都可以) */
-  src: url(/font/MiSans.woff2);
+  src: url(/fonts/Mali-Medium.woff2);
   /* 定义加粗样式(加粗多少) */
   font-weight: normal;
   /* 定义字体样式(斜体/非斜体) */
@@ -15,7 +15,7 @@
   /* 为载入的字体取名字(随意) */
   font-family: 'china';
   /* 字体文件地址(相对或者绝对路径都可以) */
-  src: url(/font/甜甜圈海报字体.woff2);
+  src: url(/fonts/甜甜圈海报字体.woff2);
   /* 定义加粗样式(加粗多少) */
   font-weight: normal;
   /* 定义字体样式(斜体/非斜体) */
@@ -28,7 +28,7 @@
   /* 为载入的字体取名字(随意) */
   font-family: 'yu';
   /* 字体文件地址(相对或者绝对路径都可以) */
-  src: url(/font/筑紫A丸by宁静之雨.woff2);
+  src: url(/fonts/筑紫A丸by宁静之雨.woff2);
   /* 定义加粗样式(加粗多少) */
   font-weight: normal;
   /* 定义字体样式(斜体/非斜体) */
@@ -41,7 +41,7 @@
   /* 为载入的字体取名字(随意) */
   font-family: 'Consolas';
   /* 字体文件地址(相对或者绝对路径都可以) */
-  src: url(/font/Consolas.woff2);
+  src: url(/fonts/Consolas.woff2);
   /* 定义加粗样式(加粗多少) */
   font-weight: normal;
   /* 定义字体样式(斜体/非斜体) */
