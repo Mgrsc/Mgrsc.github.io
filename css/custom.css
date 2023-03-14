@@ -140,3 +140,12 @@
     text-shadow: #5636ed 0 0 5px;
   }
 }
+
+
+
+
+/*加载动画*/
+.loading-img {
+  background: url(/img/cat.jpg) no-repeat center center;
+  background-size: cover;
+}
