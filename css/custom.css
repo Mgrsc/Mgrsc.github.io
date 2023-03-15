@@ -157,12 +157,12 @@
 }
 
 ::-webkit-scrollbar-track {
-  background-color: rgba(73, 177, 245, 0.2);
+  background-color: rgba(255, 255, 255, 0.1);
   border-radius: 2em;
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: var(--theme-color);
+  background-color: rgb(218, 52, 37);
   background-image: -webkit-linear-gradient(
     45deg,
     rgba(255, 255, 255, 0.4) 25%,
