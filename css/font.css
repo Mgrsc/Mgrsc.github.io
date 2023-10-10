@@ -1,0 +1,53 @@
+@font-face {
+  /* 为载入的字体取名字(随意) */
+  font-family: 'ME';
+  /* 字体文件地址(相对或者绝对路径都可以) */
+  src: url(https://blog-1309914759.cos.ap-guangzhou.myqcloud.com/web/Mali-Medium.woff2);
+  /* 定义加粗样式(加粗多少) */
+  font-weight: normal;
+  /* 定义字体样式(斜体/非斜体) */
+  font-style: normal;
+  /* 定义显示样式 */
+  font-display: block;
+}
+
+@font-face {
+  /* 为载入的字体取名字(随意) */
+  font-family: 'china';
+  /* 字体文件地址(相对或者绝对路径都可以) */
+  src: url(https://blog-1309914759.cos.ap-guangzhou.myqcloud.com/web/%E7%AD%91%E7%B4%ABA%E4%B8%B8by%E5%AE%81%E9%9D%99%E4%B9%8B%E9%9B%A8.woff2);
+  /* 定义加粗样式(加粗多少) */
+  font-weight: normal;
+  /* 定义字体样式(斜体/非斜体) */
+  font-style: normal;
+  /* 定义显示样式 */
+  font-display: block;
+}
+
+@font-face {
+  /* 为载入的字体取名字(随意) */
+  font-family: 'yu';
+  /* 字体文件地址(相对或者绝对路径都可以) */
+  src: url(https://blog-1309914759.cos.ap-guangzhou.myqcloud.com/web/%E7%AD%91%E7%B4%ABA%E4%B8%B8by%E5%AE%81%E9%9D%99%E4%B9%8B%E9%9B%A8.woff2);
+  /* 定义加粗样式(加粗多少) */
+  font-weight: normal;
+  /* 定义字体样式(斜体/非斜体) */
+  font-style: normal;
+  /* 定义显示样式 */
+  font-display: block;
+}
+
+@font-face {
+  /* 为载入的字体取名字(随意) */
+  font-family: 'Consolas';
+  /* 字体文件地址(相对或者绝对路径都可以) */
+  src: url(https://blog-1309914759.cos.ap-guangzhou.myqcloud.com/web/Consolas.woff2);
+  /* 定义加粗样式(加粗多少) */
+  font-weight: normal;
+  /* 定义字体样式(斜体/非斜体) */
+  font-style: normal;
+  /* 定义显示样式 */
+  font-display: block;
+}
+
+
